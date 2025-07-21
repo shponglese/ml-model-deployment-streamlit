@@ -1,0 +1,7 @@
+boto3
+pandas
+datasets
+transformers
+torch
+evaluate
+streamlit
