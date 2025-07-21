@@ -9,7 +9,7 @@ import torch
 
 bucket_name = "mlopsjuly17"
 s3_prefix = "ml-models/tinybert-sentiment-analysis/"
-local_path = "../../deploy-model-streamlit/tinybert-sentiment-analysis"
+local_path = "tinybert-sentiment-analysis"
 
 s3 = boto3.client('s3')
 
